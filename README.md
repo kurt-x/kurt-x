@@ -1,3 +1,3 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1643517428/34588/yay.gif?1643517428" width="30"/> Hello，this is Kurtis
+# <img src="https://emojis.slackmojis.com/emojis/images/1643517428/34588/yay.gif?1643517428" width="30"/> Hello, this is Kurtis
 
 Homepage under renovation...
