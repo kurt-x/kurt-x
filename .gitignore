@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+.vs/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# 通用
+*.log
+*.tmp
+/target
+cmake-build-*
+/build
