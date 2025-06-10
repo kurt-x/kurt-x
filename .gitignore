@@ -13,6 +13,9 @@ node_modules/
 __pycache__/
 *.pyc
 
+# Build tools
+.gradle/
+
 # 通用
 *.log
 *.tmp
